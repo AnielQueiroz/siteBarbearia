@@ -2,6 +2,11 @@
 	width:100%;
 }
 
+header {
+    background-color: #000000;
+    width: 100%;
+}
+
 .principal{
 	background: #CCCCCC;
 	padding: 30px;
